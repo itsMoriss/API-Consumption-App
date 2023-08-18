@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\The Jitu Repo\API_Consumption_App\bin\Debug\net7.0\API_Consumption_App.exe
+C:\Users\Administrator\Desktop\The Jitu Repo\API_Consumption_App\bin\Debug\net7.0\API_Consumption_App.deps.json
+C:\Users\Administrator\Desktop\The Jitu Repo\API_Consumption_App\bin\Debug\net7.0\API_Consumption_App.runtimeconfig.json
+C:\Users\Administrator\Desktop\The Jitu Repo\API_Consumption_App\bin\Debug\net7.0\API_Consumption_App.dll
+C:\Users\Administrator\Desktop\The Jitu Repo\API_Consumption_App\bin\Debug\net7.0\API_Consumption_App.pdb
+C:\Users\Administrator\Desktop\The Jitu Repo\API_Consumption_App\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\The Jitu Repo\API_Consumption_App\obj\Debug\net7.0\API_Consumption_App.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\The Jitu Repo\API_Consumption_App\obj\Debug\net7.0\API_Consumption_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\The Jitu Repo\API_Consumption_App\obj\Debug\net7.0\API_Consumption_App.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\The Jitu Repo\API_Consumption_App\obj\Debug\net7.0\API_Consumption_App.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\The Jitu Repo\API_Consumption_App\obj\Debug\net7.0\API_Consumption_App.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\The Jitu Repo\API_Consumption_App\obj\Debug\net7.0\API_Consumption_App.csproj.CopyComplete
+C:\Users\Administrator\Desktop\The Jitu Repo\API_Consumption_App\obj\Debug\net7.0\API_Consumption_App.dll
+C:\Users\Administrator\Desktop\The Jitu Repo\API_Consumption_App\obj\Debug\net7.0\refint\API_Consumption_App.dll
+C:\Users\Administrator\Desktop\The Jitu Repo\API_Consumption_App\obj\Debug\net7.0\API_Consumption_App.pdb
+C:\Users\Administrator\Desktop\The Jitu Repo\API_Consumption_App\obj\Debug\net7.0\API_Consumption_App.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\The Jitu Repo\API_Consumption_App\obj\Debug\net7.0\ref\API_Consumption_App.dll
